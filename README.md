@@ -67,6 +67,6 @@ The dashboard supports dynamic filtering across:
 ## 🛠️ Tools & Skills Used
 
 - **Power BI Desktop**: Dashboard design and development
-- **DAX**: Custom measures for KPIs, MTD, MoM calculations
+- **DAX**: Custom measures, columns, and tables for KPIs, MTD, MoM calculations
 - **Power Query**: Data cleaning and transformation
 - **Data Modeling**: Relationships and schema design
