@@ -9,7 +9,7 @@ An interactive Power BI dashboard analyzing bank loan performance across 3 pages
 ### 1. Summary
 ![Summary Dashboard](Screenshots/Summary.png)
 
-A high-level snapshot of the loan portfolio, classifying loans into **Good** and **Bad** segments. Includes MTD(Month to Date) and MoM(Month on Month) comparisons for key KPIs and a detailed breakdown by loan status Fully Paid, Current, and Charged Off.
+A snapshot of the loan portfolio, classifying loans into **Good** and **Bad** segments. Includes MTD(Month to Date) and MoM(Month on Month) comparisons for key KPIs and a detailed breakdown by loan status Fully Paid, Current, and Charged Off.
 
 ---
 
