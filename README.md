@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Report | Power BI Dashboard
 
-An interactive Power BI dashboard analyzing bank loan performance across 3 pagesvSummary, Overview, and Detailsvtracking loan quality, trends, KPIs, and borrower insights with dynamic filters.
+An interactive Power BI dashboard analyzing bank loan performance across 3 pages Summary, Overview, and Detailsvtracking loan quality, trends, KPIs, and borrower insights with dynamic filters.
 
 ---
 
