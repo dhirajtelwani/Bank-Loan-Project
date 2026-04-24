@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Report | Power BI Dashboard
 
-An interactive Power BI dashboard analyzing bank loan performance across 3 pages Summary, Overview, and Detailsvtracking loan quality, trends, KPIs, and borrower insights with dynamic filters.
+An interactive Power BI dashboard analyzing bank loan performance across 3 pages Summary, Overview, and Details tracking loan quality, trends, KPIs, and borrower insights with dynamic filters.
 
 ---
 
@@ -57,16 +57,16 @@ Granular, row-level view of individual loans with attributes including grade, su
 ## 🔍 Filters & Slicers
 
 The dashboard supports dynamic filtering across:
-- **State** — Filter by U.S. state
-- **Grade** — Filter by loan grade (A to G)
-- **Purpose** — Filter by loan purpose
-- **Good vs Bad Loan** — Isolate portfolio segments
+- **State**: Filter by U.S. state
+- **Grade**: Filter by loan grade (A to G)
+- **Purpose**: Filter by loan purpose
+- **Good vs Bad Loan**: Isolate portfolio segments
 
 ---
 
 ## 🛠️ Tools & Skills Used
 
-- **Power BI Desktop** — Dashboard design and development
-- **DAX** — Custom measures for KPIs, MTD, MoM calculations
-- **Power Query** — Data cleaning and transformation
-- **Data Modeling** — Relationships and schema design
+- **Power BI Desktop**: Dashboard design and development
+- **DAX**: Custom measures for KPIs, MTD, MoM calculations
+- **Power Query**: Data cleaning and transformation
+- **Data Modeling**: Relationships and schema design
