@@ -7,14 +7,14 @@ An interactive Power BI dashboard analyzing bank loan performance across 3 pages
 ## 📊 Dashboard Pages
 
 ### 1. Summary
-![Summary Dashboard](screenshots/summary.png)
+![Summary Dashboard](Screenshots/Summary.png)
 
 A high-level snapshot of the loan portfolio, classifying loans into **Good** and **Bad** segments. Includes MTD(Month to Date) and MoM(Month on Month) comparisons for key KPIs and a detailed breakdown by loan status Fully Paid, Current, and Charged Off.
 
 ---
 
 ### 2. Overview
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard](Screenshots/Overview.png)
 
 Visual trend analysis across multiple dimensions:
 - Monthly loan application volume
@@ -27,7 +27,7 @@ Visual trend analysis across multiple dimensions:
 ---
 
 ### 3. Details
-![Details Dashboard](screenshots/details.png)
+![Details Dashboard](Screenshots/Details.png)
 
 Granular, row-level view of individual loans with attributes including grade, sub-grade, issue date, funded amount, installment, interest rate, and total received amount.
 
