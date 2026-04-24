@@ -70,8 +70,3 @@ The dashboard supports dynamic filtering across:
 - **DAX** — Custom measures for KPIs, MTD, MoM calculations
 - **Power Query** — Data cleaning and transformation
 - **Data Modeling** — Relationships and schema design
-
-
-## 📬 Contact
-
-Feel free to connect or raise an issue if you have any feedback or questions!
